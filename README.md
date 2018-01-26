@@ -3,6 +3,8 @@
 
 A database for managing public domain books and their magnet URIs.
 
+![Demo](https://i.imgur.com/87GjTo3.png)
+
 ## Getting Started
 
 Clone the repo:
