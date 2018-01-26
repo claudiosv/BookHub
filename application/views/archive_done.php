@@ -1,0 +1,1 @@
+<div class="container"> <?php echo $count; ?> torrents have been successfully archived.</div>
